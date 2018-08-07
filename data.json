@@ -1,0 +1,14 @@
+[
+	{"label" : "alternative metal", "value" : 10},
+	{"label" : "alternative rock", "value" : 10},
+	{"label" : "dance-punk", "value" : 1},
+	{"label" : "garage rock", "value" : 1},
+	{"label" : "modern rock", "value" : 10},
+	{"label" : "neo-psychedelic", "value" : 1},
+	{"label" : "pop rap", "value" : 2},
+	{"label" : "rap", "value" : 2},
+	{"label" : "permanent wave", "value" : 9},
+	{"label" : "pop rock", "value" : 9},
+	{"label" : "post-grunge", "value" : 9},
+	{"label" : "rock", "value" : 9}
+]
